@@ -1,8 +1,0 @@
-cluster:
-  labels:
-    imported: "no"
-  annotations:
-    createdFrom: "rke2-custom-template"
-
-kubernetesVersion: ""
-networkPlugin: calico
