@@ -33,8 +33,11 @@ questions:
   type: enum
   required: true
   options:
+  - v1.32.6+rke2r1
   - v1.32.3+rke2r1
+  - v1.31.10+rke2r1
   - v1.31.7+rke2r1
+  - v1.30.14+rke2r1
   - v1.30.11+rke2r1
   group: "General"
 - variable: localClusterAuthEndpoint.enabled
