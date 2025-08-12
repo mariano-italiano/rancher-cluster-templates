@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: httpd
-    image: httpd:latest
+    image: httpd:bookworm
     ports:
     - containerPort: 80
